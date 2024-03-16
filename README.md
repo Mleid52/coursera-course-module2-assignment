@@ -2,7 +2,7 @@ file:///C:/Users/mary1/Desktop/coursera-course-module2-assignment-master/courser
 
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-
+ https://selenearzola.github.io/coursera-course-module2-assignment/
 
 Woo-hoo! You get to do some coding! Exciting!
 
